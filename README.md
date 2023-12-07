@@ -1,3 +1,3 @@
-Bug-Meldungen und Funktionswünsche können hier erfasst und priorisiert werden:
+# .github
 
-[https://github.com/orgs/lucascranach/projects/2](https://github.com/orgs/lucascranach/projects/2)
+Dieses Repository dient zum strukturierten Veröffentlichen von Informationen auf der Organisationsseite in GitHub.
